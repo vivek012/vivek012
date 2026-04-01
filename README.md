@@ -3,6 +3,7 @@
 # Hey there, I'm Vivek Kumar 👋
 
 **Full Stack Developer** · MERN Stack Enthusiast · Open Source Contributor
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsvivek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jsvivek)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekk186388@gmail.com)
