@@ -75,7 +75,7 @@ I'm a passionate full stack developer focused on building scalable, real-world w
 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek012&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vivek012&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vivek012&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek012&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -97,7 +97,7 @@ I'm a passionate full stack developer focused on building scalable, real-world w
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=vivek012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-readme-activity-graph.vercel.app/graph?username=vivek012&theme=github-dark&hide_border=true)
 
 </div>
 
